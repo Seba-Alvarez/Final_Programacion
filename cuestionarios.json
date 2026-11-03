@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "Historia General",
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "Año de la primera constitución de América",
+        "respuestaCorrecta": "1787"
+      }
+    ]
+  }
+]
